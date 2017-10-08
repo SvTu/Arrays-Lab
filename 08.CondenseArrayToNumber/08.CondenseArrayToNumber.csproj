@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9C48AC2C-0194-49E8-A342-EDC7D5880360}</ProjectGuid>
+    <ProjectGuid>{E9BB44AA-B330-417E-AC7A-E7D0BC3B9E24}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01.DayOfWeek</RootNamespace>
-    <AssemblyName>01.DayOfWeek</AssemblyName>
+    <RootNamespace>_08.CondenseArrayToNumber</RootNamespace>
+    <AssemblyName>08.CondenseArrayToNumber</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DayOfWeek.cs" />
+    <Compile Include="CondenseArrayToNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

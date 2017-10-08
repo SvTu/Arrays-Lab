@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9C48AC2C-0194-49E8-A342-EDC7D5880360}</ProjectGuid>
+    <ProjectGuid>{E1BB5FD3-60DE-4827-B671-090BB7830D3A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01.DayOfWeek</RootNamespace>
-    <AssemblyName>01.DayOfWeek</AssemblyName>
+    <RootNamespace>_09.ExtractMiddle1_2or3Elements</RootNamespace>
+    <AssemblyName>09.ExtractMiddle1,2or3Elements</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DayOfWeek.cs" />
+    <Compile Include="ExtractMiddle1,2or3Elements.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
